@@ -9,3 +9,8 @@
     --dark-gray-color: #6a6a6a;
     --dark-black-color: #28272C;
 }
+
+.container {
+    width: 1088px;
+    margin: 0 auto;
+}
